@@ -8,4 +8,4 @@ To use this repository, you must follow these steps:
 4. Add the following line in spoonacular.env: 
     SPOONACULAR_KEY='your_key_here'
 5. Save spoonacular.env and run your python file.
-
+6. If you are running into issues with using python-dotenv, try running `sudo pip install python-dotenv` or `sudo pip3 install python-dotenv`
